@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f9762556-63eb-4b8c-b948-8e05984f981b">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="c7d52266-363f-4f88-a1e8-b3c777df7698"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="8f357cba-ce80-4e23-a236-1013d797b869"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="77776423-059f-4dda-98a6-395a57374737"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="62c2d61b-3498-445a-b0bc-c218e14fdf56"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="4f464e74-4220-4c67-aa15-c7201596631f"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="bb9529d5-f686-449c-9ed5-1efb0f96e618"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="084c9a8a-1ca5-4c1c-bc0e-35d6c980fade"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <version>1.0.0.1</version>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.18</compatibilityMode>
+  <languages uuid="cfc64f05-3e2f-43d4-8ec2-579de17181ec">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <dataProcessors>DataProcessor.ТестовоеЗаданиеАнтонаПетрунова</dataProcessors>
+</mdclass:Configuration>

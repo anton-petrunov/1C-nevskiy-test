@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6c89f0fd-0e3c-4ea6-9fa7-898497288e97">
+  <producedTypes>
+    <objectType typeId="f10d775b-5a37-4003-86d6-64fd001719d8" valueTypeId="a1059025-fd58-4ca8-baeb-e13c8a8d7a37"/>
+    <managerType typeId="0cbaf76c-7450-42eb-ba59-a9e5dc399e4a" valueTypeId="f560dc21-e8dd-4fd0-ad6a-f652de6014a5"/>
+  </producedTypes>
+  <name>ТестовоеЗаданиеАнтонаПетрунова</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тестовое задание Антона Петрунова</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ТестовоеЗаданиеАнтонаПетрунова.Form.Форма</defaultForm>
+  <forms uuid="f7533ae2-91b3-4669-b148-9f72c2868eb3">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
